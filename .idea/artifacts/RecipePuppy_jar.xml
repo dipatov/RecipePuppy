@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RecipePuppy:jar">
+    <output-path>$PROJECT_DIR$/../RecipePuppy/out/artifacts/RecipePuppy_jar</output-path>
+    <root id="archive" name="RecipePuppy.jar">
+      <element id="module-output" name="RecipePuppy" />
+      <element id="library" level="project" name="org.json:json:20180813" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jackson-annotations-2.9.6" />
+    </root>
+  </artifact>
+</component>
